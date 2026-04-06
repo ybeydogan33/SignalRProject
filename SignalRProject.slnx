@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/SignalRApi/">
+    <Project Path="SignalRApi/SignalRapi.csproj" />
+  </Folder>
+  <Project Path="SignalRWebUi/SignalRWebUi.csproj" />
+</Solution>

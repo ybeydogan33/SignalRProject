@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwMubo8oh3U=",
+  "success": true,
+  "projectFilePath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/yb/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/yb/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
