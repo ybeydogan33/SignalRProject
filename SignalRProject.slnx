@@ -2,5 +2,9 @@
   <Folder Name="/SignalRApi/">
     <Project Path="SignalRApi/SignalRapi.csproj" />
   </Folder>
+  <Project Path="SignalR.BusinessLayer/SignalR.BusinessLayer.csproj" />
+  <Project Path="SignalR.DataAccessLayer/SignalR.DataAccessLayer.csproj" />
+  <Project Path="SignalR.DtoLayer/SignalR.DtoLayer.csproj" />
+  <Project Path="SignalR.EntityLayer/SignalR.EntityLayer.csproj" />
   <Project Path="SignalRWebUi/SignalRWebUi.csproj" />
 </Solution>
