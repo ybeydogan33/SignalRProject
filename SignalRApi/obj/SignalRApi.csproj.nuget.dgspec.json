@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj": {}
+    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj": {}
   },
   "projects": {
-    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj": {
+    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj",
-        "projectName": "SignalRApi",
-        "projectPath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj",
+        "projectUniqueName": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj",
+        "projectName": "SignalRapi",
+        "projectPath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj",
         "packagesPath": "/Users/yb/.nuget/packages/",
         "outputPath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/obj/",
         "projectStyle": "PackageReference",
@@ -45,6 +45,12 @@
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.5, )"
             }

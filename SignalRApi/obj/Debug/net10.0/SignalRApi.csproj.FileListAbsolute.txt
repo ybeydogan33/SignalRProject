@@ -31,3 +31,4 @@
 /Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/obj/Debug/net10.0/SignalRApi.pdb
 /Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/obj/Debug/net10.0/SignalRApi.genruntimeconfig.cache
 /Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/obj/Debug/net10.0/ref/SignalRApi.dll
+/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/obj/Debug/net10.0/SignalRApi.sourcelink.json
