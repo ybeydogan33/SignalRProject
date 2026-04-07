@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vRJFJJFwe28=",
+  "dgSpecHash": "Hb3nSSRxKqM=",
   "success": true,
-  "projectFilePath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj",
+  "projectFilePath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj",
   "expectedPackageFiles": [
     "/Users/yb/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
     "/Users/yb/.nuget/packages/azure.identity/1.14.2/azure.identity.1.14.2.nupkg.sha512",

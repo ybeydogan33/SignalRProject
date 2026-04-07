@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj": {}
+    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj": {}
   },
   "projects": {
     "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalR.BusinessLayer/SignalR.BusinessLayer.csproj": {
@@ -1033,12 +1033,12 @@
         }
       }
     },
-    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj": {
+    "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj",
-        "projectName": "SignalRapi",
-        "projectPath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRapi.csproj",
+        "projectUniqueName": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj",
+        "projectName": "SignalRApi",
+        "projectPath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/SignalRApi.csproj",
         "packagesPath": "/Users/yb/.nuget/packages/",
         "outputPath": "/Users/yb/Desktop/Yazilim_Projeler/SignalRProject/SignalRApi/obj/",
         "projectStyle": "PackageReference",

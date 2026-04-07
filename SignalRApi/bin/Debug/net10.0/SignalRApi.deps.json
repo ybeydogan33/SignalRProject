@@ -6,14 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "SignalRapi/1.0.0": {
+      "SignalRApi/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "10.0.5",
           "Microsoft.EntityFrameworkCore.Design": "10.0.5",
           "SignalR.BusinessLayer": "1.0.0"
         },
         "runtime": {
-          "SignalRapi.dll": {}
+          "SignalRApi.dll": {}
         }
       },
       "Azure.Core/1.47.1": {
@@ -801,7 +801,7 @@
     }
   },
   "libraries": {
-    "SignalRapi/1.0.0": {
+    "SignalRApi/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
