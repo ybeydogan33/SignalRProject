@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SignalRApi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SignalRapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802d34caff42355ab7e71dc30136505d5a192389")]
-[assembly: System.Reflection.AssemblyProductAttribute("SignalRApi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SignalRApi")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86b733a2c47913a3379d174888c4d63ddd896f14")]
+[assembly: System.Reflection.AssemblyProductAttribute("SignalRapi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SignalRapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
